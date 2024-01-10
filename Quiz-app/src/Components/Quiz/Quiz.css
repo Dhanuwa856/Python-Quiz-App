@@ -5,6 +5,7 @@
   margin-right: auto;
   margin-top: 50px;
   border-radius: 8px;
+  margin-bottom: 20px;
 
 }
 
@@ -84,7 +85,7 @@
   text-align: right;
   font-size: 12px;
   padding-bottom: 10px;
-  padding-right: 5px;
+  padding-right: 10px;
   margin-top: 20px;
   font-weight: 500;
   color: #141c1d;
@@ -99,4 +100,30 @@
 .copy-text a:hover {
   color: #ff4040;
   text-decoration: underline;
+}
+
+.container .correct {
+  background: #a0fbae;
+  border-color: #12a428;
+  color: #324234;
+}
+
+.container .wrong {
+  background: #ffcdcd;
+  border-color: #ed2c2c;
+}
+
+.red-color {
+  color: #ed2c2c;
+}
+
+.container h4 {
+  color: #494343;
+  font-size: 20px;
+  margin-top: 10px;
+  margin-left: 20px;
+}
+
+.blue-color {
+  color: #0044c1;
 }
