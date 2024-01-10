@@ -224,5 +224,37 @@ const data = [
     option4: "None of the above",
     ans: 3,
   },
+  {
+    question: "In which year was the Python language developed?",
+    option1: "1995",
+    option2: "1972",
+    option3: "1981",
+    option4: "1989",
+    ans: 4,
+  },
+  {
+    question: "In which language is Python written?",
+    option1: "English",
+    option2: "PHP",
+    option3: "C",
+    option4: "All of the above",
+    ans: 3,
+  },
+  {
+    question: "What is the method inside the class in python language?",
+    option1: "Object",
+    option2: "Function",
+    option3: "Attribute",
+    option4: "Argument",
+    ans: 2,
+  },
+  {
+    question: "Which of the following declarations is incorrect?",
+    option1: "_x = 2",
+    option2: "__x = 3",
+    option3: "__xyz__ = 5",
+    option4: "None of these",
+    ans: 4,
+  },
 ];
 export default data;

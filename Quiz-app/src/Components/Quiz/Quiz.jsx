@@ -116,7 +116,7 @@ const Quiz = () => {
             You Scored <span className="red-color">{score}</span> out of{" "}
             <span className="blue-color"> {data.length}</span>
           </h2>
-          <h4>Your Marks Percentage: {percentage} %</h4>
+          <h4>Your Marks Percentage:{percentage}%</h4>
           <button onClick={reset}>RESET</button>
         </>
       ) : (
